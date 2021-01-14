@@ -1,0 +1,19 @@
+{
+  "name": "dht-express",
+  "version": "1.0.0",
+  "description": "express server for postgres-esp8266-dht",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungry-thom/dht-express.git"
+  },
+  "author": "hungry-thom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hungry-thom/dht-express/issues"
+  },
+  "homepage": "https://github.com/hungry-thom/dht-express#readme"
+}
