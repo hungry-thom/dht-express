@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/hungry-thom/dht-express/issues"
   },
-  "homepage": "https://github.com/hungry-thom/dht-express#readme"
+  "homepage": "https://github.com/hungry-thom/dht-express#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pg": "^8.5.1"
+  }
 }
